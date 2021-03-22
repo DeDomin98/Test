@@ -1,0 +1,214 @@
+body
+{
+	font-family: 'Lato', sans-serif;
+	background-color: #383736;
+	color: white;
+	font:size 20px;
+
+}
+
+#cointeiner
+{
+	width: 1000px;
+	height: 700px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #383736;
+	
+}
+
+.rectangle
+{
+	width: 960px;
+	height: 75px;
+	background-color: #383736;
+	margin: 20px;
+	text-align: center;
+	
+	
+	
+}
+
+#logo
+{
+	
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	width: 600px;
+	text-align: left;
+}
+
+#zegar
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	text-align: left;
+}
+
+.square
+{
+	width: 50%;
+	float: left;
+}
+
+.tile1
+{
+	float: left;
+	width: 230px;
+	height: 142px;
+	margin: 10px;
+	background-color: #3095d3;
+	text-align: center;
+	font-size: 30px;
+}
+.tile1:hover
+{
+	background-color: 2084c2;
+	cursor: pointer;
+}
+
+.tile2
+{
+	float: left;
+	width: 230px;
+	height: 142px;
+	margin: 10px;
+	background-color: #666666;
+	text-align: center;
+	font-size: 30px;
+	
+}
+.tile2:hover
+{
+	background-color: #555555;
+	cursor: pointer;
+}
+
+.tile3
+{
+	float: left;
+	width: 230px;
+	height: 142px;
+	margin: 10px;
+	background-color: #93c748;
+	text-align: center;
+	font-size: 30px;
+}
+.tile3:hover
+{
+	background-color: #82b637;
+	cursor: pointer;
+}
+
+.tile4
+{
+	
+	width: 440px;
+	height: 102px;
+	margin: 10px;
+	background-color: #ee5a32;
+	text-align: center;
+	font-size: 19px;
+	font-weight: 900;
+	line-height: 150%;
+	padding: 20px;
+	
+}
+.tile5
+{
+	width: 420px;
+	height: 244px;
+	margin: 10px;
+	background-color: #666666;
+	text-align: justify;
+	font-size: 20px;
+	padding: 30px;
+}
+.fb
+{
+	float: left;
+	width: 105px;
+	height: 142px;
+	margin: 10px;
+	background-color: #3b5998;
+}
+.fb:hover
+{
+	background-color: #2a4887;
+}
+.yt
+{
+	float: left;
+	width: 105px;
+	height: 142px;
+	margin: 10px;
+	background-color: #c4302b;
+}
+.yt:hover
+{
+	background-color: #b3201a;
+}
+.insta
+{
+	float: left;
+	width: 105px;
+	height: 142px;
+	margin: 10px;
+	background: #f09433; 
+	
+	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+	
+	
+}
+.insta:hover
+{
+	background: -moz-linear-gradient(45deg, #e08322 0%, #d5572b 25%, #cb1632 50%, #bb1255 75%, #ab0777 100%); 
+	background: -webkit-linear-gradient(45deg, #e08322 0%,#d5572b 25%,#cb1632 50%,#bb1255 75%,#ab0777 100%); 
+	background: linear-gradient(45deg, #e08322 0%,#d5572b 25%,#cb1632 50%,#bb1255 75%,#ab0777 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e08322', endColorstr='#ab07777',GradientType=1 );
+	
+}
+.tw
+{
+	float: left;
+	width: 105px;
+	height: 142px;
+	margin: 10px;
+	background-color: #1DA1F2;
+}
+.tw:hover
+{
+	background-color: #0c90c1;
+}
+
+a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 230px;
+	height: 142px;
+}
+a.tilelinkhtml5
+{
+	color: #ffffff;
+	text-decoration: none;
+
+}
+a.socialslink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 105px;
+	height: 142px;
+}
+
+
+
